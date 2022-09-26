@@ -10,6 +10,11 @@ OR
 list_integers = [1, 2, 1, 3, 3, 3, 1, 4, 4]
 Output = 2
 
+XOR Operation -
+1 ∩ 1 = o   # returns 0 for the same digits
+1 ∩ 0 = 1   # returns 1 for the different digits
+0 ∩ 1 = 1
+0 ∩ 0 = 0
 ***
 
 
