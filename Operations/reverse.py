@@ -22,7 +22,7 @@ new_list = list(reverse(list_name))  # new list is created
 # Approach 3 - using list slicing
 new_list = my_list[ : : -1]  # new list is created
 
-# Approach 5 - crafting a new method
+# Approach 4 - crafting a new method
 def reverse_l(my_list):
   start = o
   end = len(my_list) - 1  # getting end value
